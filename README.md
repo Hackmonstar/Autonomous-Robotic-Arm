@@ -38,13 +38,13 @@ Control Program → Microcontroller → Motor Drivers → Servo Motors → Robot
 
 The robotic arm prototype was built using the following hardware components:
 
-- Microcontroller
-- Servo motors
-- Motor driver module
+- Microcontroller - Arduino Uno
+- Servo motors - MG996R
 - Robotic arm frame
 - Gripper (end effector)
 - Power supply unit
 - Connecting wires and mounting components
+- Prototype Board
 
 Each servo motor controls a specific joint, enabling multi-axis movement.
 
