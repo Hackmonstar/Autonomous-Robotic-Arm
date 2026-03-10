@@ -15,7 +15,6 @@ The objectives of this project include:
 - Design and construct a functional robotic arm prototype
 - Implement programmed autonomous movement sequences
 - Enable wireless control of the robotic arm through a mobile application
-- Demonstrate object manipulation such as picking and placing items
 - Explore practical applications of robotics and automation
 
 ---
