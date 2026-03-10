@@ -38,7 +38,7 @@ Control Program → Microcontroller → Motor Drivers → Servo Motors → Robot
 
 The robotic arm prototype was built using the following hardware components:
 
-- Microcontroller - Arduino Uno
+- Microcontroller - Arduino Uno and Esp32
 - Servo motors - MG996R
 - Robotic arm frame
 - Gripper (end effector)
