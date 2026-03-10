@@ -120,10 +120,6 @@ This project demonstrates knowledge and practical skills in:
 
 Images of the robotic arm prototype below.
 
-![Robotic Arm Prototype](image1.jpg)
-
-![Mobile Control Interface](image2.jpg)
-
 ![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_front_view_with_grip_closed.png)
 
 Robotic arm front view with grip closed
@@ -139,6 +135,10 @@ Robotic arm side view
 ![Robotic Arm Side View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_side_view2.png)
 
 Robotic arm side view2
+
+![Mobile Control Interface](image2.jpg)
+
+Mobile App control Interface
 
 ---
 
