@@ -147,7 +147,7 @@ Mobile App control Interface
 Watch the project demonstration here:
 
 Project Demo:  
-[Robotic arm](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/videos/1_RoboticArm.mp4)
+https://www.youtube.com/shorts/gK2Ie0IIwsM
 
 ---
 
