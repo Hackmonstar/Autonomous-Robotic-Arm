@@ -147,7 +147,7 @@ Mobile App control Interface
 Watch the project demonstration here:
 
 Project Demo:  
-https://www.youtube.com/shorts/gK2Ie0IIwsM
+https://www.youtube.com/shorts/jeJxKYc6mj8
 
 ---
 
