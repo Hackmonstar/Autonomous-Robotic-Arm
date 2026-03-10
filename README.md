@@ -124,11 +124,11 @@ Images of the robotic arm prototype below.
 
 ![Mobile Control Interface](image2.jpg)
 
-![Robotic Arm Side View]()
+![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_front_view_with_grip_closed.png)
 
 Robotic arm front view with grip closed
 
-![Robotic Arm Side View]()
+![Robotic Arm front View]()
 
 Robotic arm front view with grip open
 
