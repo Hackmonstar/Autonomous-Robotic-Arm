@@ -136,7 +136,7 @@ Robotic arm side view
 
 Robotic arm side view2
 
-![Mobile Control Interface](image2.jpg)
+![Mobile Control Interface](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/mobile_app_interface.png)
 
 Mobile App control Interface
 
