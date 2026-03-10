@@ -124,7 +124,7 @@ Images of the robotic arm prototype below.
 
 ![Mobile Control Interface](image2.jpg)
 
--Robotic arm side view2
+Robotic arm side view2
 ![Robotic Arm Side View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_side_view2.png)
 
 ---
