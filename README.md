@@ -153,8 +153,13 @@ Demo of the Grip(end effector) test
 https://www.youtube.com/shorts/gK2Ie0IIwsM
 
 Demo of the skeletal structure wrist joint(end effector) test
-https://www.youtube.com/shorts/gK2Ie0IIwsM
+https://www.youtube.com/shorts/XUgc-nxxgv8
 
+Demo of the skeletal structure elbow joint(end effector) test
+https://www.youtube.com/shorts/fNqK5qH4WYo
+
+Demo of the skeletal structure shoulder joint(end effector) test
+https://www.youtube.com/shorts/pFckaWutCT4
 
 
 ---
