@@ -118,7 +118,7 @@ This project demonstrates knowledge and practical skills in:
 
 ## Project Images
 
-Add images of the robotic arm prototype below.
+Images of the robotic arm prototype below.
 
 ![Robotic Arm Prototype](image1.jpg)
 
