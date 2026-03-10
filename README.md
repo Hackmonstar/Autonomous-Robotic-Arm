@@ -149,6 +149,14 @@ Watch the project demonstration here:
 Project Demo:  
 https://www.youtube.com/shorts/jeJxKYc6mj8
 
+Demo of the Grip(end effector) test
+https://www.youtube.com/shorts/gK2Ie0IIwsM
+
+Demo of the skeletal structure wrist joint(end effector) test
+https://www.youtube.com/shorts/gK2Ie0IIwsM
+
+
+
 ---
 
 ## Future Improvements
