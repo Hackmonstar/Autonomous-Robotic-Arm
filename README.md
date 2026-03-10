@@ -43,14 +43,13 @@ Mobile App / Programmed Commands → Wireless Module → Microcontroller → Mot
 
 The robotic arm prototype was developed using the following hardware components:
 
-- Microcontroller (control unit)
+- Microcontroller (control unit) - Arduino Uno
 - Servo motors for joint movement
-- Wireless communication module (Bluetooth/WiFi)
-- Motor driver module
+- Wireless communication module (Bluetooth/WiFi) - Esp32
 - Robotic arm frame
 - Gripper (end effector)
 - Power supply unit
-- Connecting wires and supporting components
+- Connecting wires, breadboard and supporting components
 
 Each servo motor controls a specific joint, allowing multi-axis movement of the robotic arm.
 
