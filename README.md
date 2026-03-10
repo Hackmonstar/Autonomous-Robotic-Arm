@@ -133,7 +133,7 @@ Add images of the robotic arm prototype below.
 Watch the project demonstration here:
 
 Project Demo:  
-https://youtube.com/your-video-link
+[Robotic arm](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/1_RoboticArm.mp4)
 
 ---
 
