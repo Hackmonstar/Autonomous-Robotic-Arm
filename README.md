@@ -120,23 +120,23 @@ This project demonstrates knowledge and practical skills in:
 
 Images of the robotic arm prototype below.
 
-![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_front_view_with_grip_closed.png)
+![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/image/robotic_arm_front_view_with_grip_closed.png)
 
 Robotic arm front view with grip closed
 
-![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_front_view_with_grip_open.png)
+![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/image/robotic_arm_front_view_with_grip_open.png)
 
 Robotic arm front view with grip open
 
-![Robotic Arm Side View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_side_view.png)
+![Robotic Arm Side View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/image/robotic_arm_side_view.png)
 
 Robotic arm side view
 
-![Robotic Arm Side View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_side_view2.png)
+![Robotic Arm Side View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/image/robotic_arm_side_view2.png)
 
 Robotic arm side view2
 
-![Mobile Control Interface](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/mobile_app_interface.png)
+![Mobile Control Interface](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/image/mobile_app_interface.png)
 
 Mobile App control Interface
 
@@ -147,7 +147,7 @@ Mobile App control Interface
 Watch the project demonstration here:
 
 Project Demo:  
-[Robotic arm](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/1_RoboticArm.mp4)
+[Robotic arm](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/videos/1_RoboticArm.mp4)
 
 ---
 
