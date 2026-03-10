@@ -1,104 +1,117 @@
-# Autonomous Robotic Arm
+# Autonomous Robotic Arm with Wireless Mobile Control
 
 ## Project Overview
-This project presents the design and development of an autonomous robotic arm capable of performing programmed movements for object manipulation. The system demonstrates practical applications of robotics, embedded systems, and automation. The robotic arm is designed to mimic basic human arm movements and can be programmed to pick, move, and place objects within a defined workspace.
 
-The project integrates mechanical design, electronic control systems, and embedded programming to achieve coordinated movement of multiple joints.
+This project presents the design and development of an autonomous robotic arm capable of executing programmed movements and performing object manipulation tasks. The robotic arm can also be controlled wirelessly through a mobile application, enabling remote operation.
+
+The system integrates robotics, embedded systems, and wireless communication technologies to demonstrate how robotic devices can be programmed for automated tasks while still allowing real-time remote control by a user.
 
 ---
 
 ## Objectives
 
-The main objectives of this project include:
+The objectives of this project include:
 
 - Design and construct a functional robotic arm prototype
-- Implement automated motion control using an embedded system
-- Demonstrate object manipulation through programmed movement sequences
-- Explore the application of robotics in automation systems
+- Implement programmed autonomous movement sequences
+- Enable wireless control of the robotic arm through a mobile application
+- Demonstrate object manipulation such as picking and placing items
+- Explore practical applications of robotics and automation
 
 ---
 
 ## System Architecture
 
-The robotic arm system is composed of three major subsystems:
+The robotic arm system consists of four main subsystems:
 
-1. Mechanical structure
-2. Electronic control unit
-3. Embedded control software
+1. Mechanical robotic arm structure
+2. Embedded control system
+3. Wireless communication module
+4. Mobile application interface
 
-The control unit processes programmed instructions and sends control signals to the actuators. The actuators then drive the mechanical joints of the robotic arm to produce coordinated movements. The end-effector (gripper) performs object manipulation tasks such as picking and placing items.
+The robotic arm can operate in two modes:
+
+- **Autonomous Mode:** executes pre-programmed movement sequences
+- **Wireless Control Mode:** receives commands from a mobile app for real-time operation
 
 System workflow:
 
-Control Program → Microcontroller → Motor Drivers → Servo Motors → Robotic Arm Movement
+Mobile App / Programmed Commands → Wireless Module → Microcontroller → Motor Drivers → Servo Motors → Robotic Arm Movement
 
 ---
 
 ## Hardware Components
 
-The robotic arm prototype was built using the following hardware components:
+The robotic arm prototype was developed using the following hardware components:
 
-- Microcontroller - Arduino Uno and Esp32
-- Servo motors - MG996R
+- Microcontroller (control unit)
+- Servo motors for joint movement
+- Wireless communication module (Bluetooth/WiFi)
+- Motor driver module
 - Robotic arm frame
 - Gripper (end effector)
 - Power supply unit
-- Connecting wires and mounting components
-- Prototype Board
+- Connecting wires and supporting components
 
-Each servo motor controls a specific joint, enabling multi-axis movement.
+Each servo motor controls a specific joint, allowing multi-axis movement of the robotic arm.
 
 ---
 
 ## Software Implementation
 
-The control software manages the coordinated movement of the robotic arm joints.
+The system software manages both the autonomous movement routines and the wireless control commands.
 
-Key functions include:
+Key software functions include:
 
-- Sending position commands to each servo motor
-- Coordinating sequential joint movements
-- Executing predefined task routines
-- Controlling the opening and closing of the gripper
+- Executing programmed movement sequences
+- Receiving commands from the mobile application
+- Processing movement instructions using the microcontroller
+- Sending control signals to the servo motors
+- Controlling the gripper for object manipulation
 
-This enables the robotic arm to perform automated object manipulation tasks with repeatable accuracy.
+The software enables smooth coordination of all robotic arm joints.
 
 ---
 
 ## Working Principle
 
-The robotic arm operates by executing programmed instructions that control the movement of each joint.
+The robotic arm operates in two modes.
+
+### Autonomous Mode
+The microcontroller executes predefined movement sequences stored in the program. These instructions control the servo motors to perform automated pick-and-place tasks.
+
+### Wireless Control Mode
+The user sends commands from a mobile application. These commands are transmitted wirelessly to the robotic arm's communication module. The microcontroller interprets the commands and activates the appropriate servo motors to perform the desired movement.
 
 Typical operation sequence:
 
-1. Position the arm above an object
-2. Activate the gripper to grasp the object
-3. Lift the object
-4. Move the arm to a target location
-5. Release the object
-
-This demonstrates basic robotic automation and coordinated motion control.
+1. User sends command via mobile app or programmed routine
+2. Wireless module receives the signal
+3. Microcontroller processes the instruction
+4. Servo motors move the robotic arm joints
+5. Gripper performs object manipulation
 
 ---
 
 ## Applications
 
-Autonomous robotic arms are widely used in:
+Robotic arms with wireless control can be used in:
 
 - Industrial automation
-- Manufacturing and assembly lines
-- Warehouse logistics
-- Laboratory automation
+- Smart manufacturing systems
+- Remote material handling
 - Robotics education and research
+- Hazardous environment operations
 
 ---
 
 ## Skills Demonstrated
 
-This project demonstrates skills in:
+This project demonstrates knowledge and practical skills in:
 
 - Robotics system design
 - Embedded systems development
+- Wireless communication systems
 - Microcontroller programming
 - Mechatronics integration
 - Automation and control systems
@@ -111,9 +124,9 @@ Add images of the robotic arm prototype below.
 
 ![Robotic Arm Prototype](image1.jpg)
 
-![Robotic Arm Side View](image2.jpg)
+![Mobile Control Interface](image2.jpg)
 
-![Control System Setup](image3.jpg)
+![Robotic Arm Side View](image3.jpg)
 
 ---
 
@@ -128,15 +141,16 @@ https://youtube.com/your-video-link
 
 ## Future Improvements
 
-Potential improvements include:
+Possible future enhancements include:
 
 - Integration of computer vision for object detection
-- AI-based motion planning
-- Wireless control and monitoring
-- Increased precision and payload capacity
+- AI-based autonomous task planning
+- Improved robotic arm precision
+- Mobile app interface enhancements
+- Internet of Things (IoT) connectivity
 
 ---
 
 ## Conclusion
 
-The Autonomous Robotic Arm project demonstrates the integration of mechanical systems, electronics, and embedded programming to create a functional automation system. The project highlights the potential of robotics in solving real-world automation challenges and serves as a foundation for more advanced intelligent robotic systems.
+The Autonomous Robotic Arm with Wireless Mobile Control demonstrates the integration of robotics, embedded systems, and wireless communication technologies to create a remotely operable and programmable robotic system. The project highlights how robotic systems can combine automation with user-controlled operation for flexible and intelligent applications.
