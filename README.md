@@ -128,7 +128,7 @@ Images of the robotic arm prototype below.
 
 Robotic arm front view with grip closed
 
-![Robotic Arm front View]()
+![Robotic Arm front View](https://github.com/Hackmonstar/Autonomous-Robotic-Arm/blob/main/robotic_arm_front_view_with_grip_open.png)
 
 Robotic arm front view with grip open
 
